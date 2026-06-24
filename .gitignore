@@ -1,5 +1,7 @@
 Hardware/
-!BSP/motor
+!BSP/motor/
+!BSP/pid/
+!BSP/wind/
 Library/
 Start/
 DebugConfig/
