@@ -1,2 +1,5 @@
 Hardware/
 !BSP/motor
+Library/
+Start/
+DebugConfig/
