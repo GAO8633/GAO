@@ -22,7 +22,6 @@
 
 #if ifopen
 
-	/*此处是因为笔者固件程序就这么大，请根据需要自行修改其大小，大小需为APP程序的code段加RO段加RW段加CRC字节长度--不甘心的咸鱼*/
 	#define   buff_size 		3692 
 	
 #endif

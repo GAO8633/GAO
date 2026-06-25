@@ -3,7 +3,7 @@
 
 #if SYSTEM_SUPPORT_OS
 
-#include "FreeRTOS.h"					/*freertos使用--不甘心的咸鱼注*/
+#include "FreeRTOS.h"				
 
 #endif
 

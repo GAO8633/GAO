@@ -12,7 +12,7 @@
 static u8  fac_us=0;							//us延时倍乘数			   
 static u16 fac_ms=0;							//ms延时倍乘数,在ucos下,代表每个节拍的ms数
  
- extern void xPortSysTickHandler(void);//OS的心跳函数声明--不甘心的咸鱼注
+ extern void xPortSysTickHandler(void);//OS的心跳函数声明
 
 //systick中断服务函数,使用os时用到
 void SysTick_Handler(void)
